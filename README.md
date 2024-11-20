@@ -8,8 +8,6 @@
 - Retrieves paper titles and links and saves them to CSV format for further analysis.
 - Includes customizable configuration to support additional databases via Google Custom Search API.
 
----
-
 ## How to Use
 
 ### 1. Clone the Repository
@@ -17,8 +15,8 @@
 Clone this repository to your local folder:
 
 ```bash
-git clone https://github.com/your-repo/paper-crawler.git
-cd paper-crawler
+git clone https://github.com/CRChenND/PaperCrawler.git
+cd PaperCrawler
 ```
 
 ### 2. Install Dependencies
@@ -66,7 +64,7 @@ This project is released under the MIT License. Feel free to use, modify, and sh
   year         = {2024},
   publisher    = {GitHub},
   journal      = {GitHub Repository},
-  howpublished = {\url{https://github.com/your-repo/paper-crawler}}
+  howpublished = {\url{https://github.com/CRChenND/PaperCrawler.git}}
 }
 ```
 
