@@ -39,8 +39,8 @@ cp config.template.json config.json
    
 ### 4. Querying Additional Databases
 To query additional databases, ensure you have:
-- A valid Google Custom Search API Key.
-- A Custom Search Engine ID configured to include your target database.
+- A valid [Google Custom Search API Key](https://developers.google.com/custom-search/v1/overview).
+- A [Google Custom Search Engine ID](https://support.google.com/programmable-search/answer/12499034?hl=en) configured to include your target database.
 Update the ```config.json``` file with these credentials.
 
 ### 5. Run the Tool
