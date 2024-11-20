@@ -1,0 +1,9 @@
+{
+    "query": "your_search_query",
+    "sources": ["google_scholar", "acm", "acl", "ieee"],
+    "csv_file": "data/papers.csv",
+    "log_file": "data/crawler.log",
+    "max_results": "None",
+    "api_keu": "your_google_custom_search_api_key_here",
+    "cse_id": "your_google_custom_search_engine_id_here"
+  }
